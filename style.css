@@ -1,0 +1,70 @@
+.header{
+    background-image: url(fonstola.ru_427727.jpg);
+    max-width:100%;
+    min-height:100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+   
+ 
+}
+
+.header-bg{
+    max-width:100%;
+    min-height:100vh;
+    background-color:rgba(0, 0, 0, 0.397);
+    display:flex;
+    flex-direction: column;
+}
+
+.nav-set{
+    background-color: #495462;
+    
+}
+
+.nav-link{
+    color:white;
+}
+
+.header-title{
+    margin:auto;
+    width:max-content;
+}
+
+.title{
+    color:white;
+    text-align: center;
+    font-weight: 900;
+    font-size:60px;
+}
+
+.subtitle{
+    color:white;
+    text-align: center;
+    font-weight: 400;
+    font-size:20px;
+}
+
+.main{
+    max-width:100%;
+   display:flex;
+  
+}
+
+.main-first-block{
+    
+    width:50%;
+    text-align: justify;
+    padding-left:15px;
+    padding-right:15px;
+    background-color: #6d7870;
+    color:white;
+}
+.main-second-block{
+    
+    width:50%;
+    text-align: justify;
+    padding-left:15px;
+    padding-right:15px;
+box-shadow: 1px 1px 10px 1px black;
+
+}
